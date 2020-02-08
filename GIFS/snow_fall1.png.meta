@@ -1,0 +1,294 @@
+fileFormatVersion: 2
+guid: fd8b3e5dc3744b044a3f7b91adece849
+timeCreated: 1579940405
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: snow_fall1_0
+    21300002: snow_fall1_1
+    21300004: snow_fall1_2
+    21300006: snow_fall1_3
+    21300008: snow_fall1_4
+    21300010: snow_fall1_5
+    21300012: snow_fall1_6
+    21300014: snow_fall1_7
+    21300016: snow_fall1_8
+    21300018: snow_fall1_9
+    21300020: snow_fall1_10
+    21300022: snow_fall1_11
+    21300024: snow_fall1_12
+    21300026: snow_fall1_13
+    21300028: snow_fall1_14
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 120
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: snow_fall1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5798
+        width: 2690
+        height: 1616
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: snow_fall1_1
+      rect:
+        serializedVersion: 2
+        x: 2942
+        y: 5764
+        width: 2697
+        height: 1633
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: snow_fall1_2
+      rect:
+        serializedVersion: 2
+        x: 5823
+        y: 5768
+        width: 2696
+        height: 1622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: snow_fall1_3
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 3782
+        width: 2696
+        height: 1622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: snow_fall1_4
+      rect:
+        serializedVersion: 2
+        x: 2891
+        y: 3799
+        width: 2696
+        height: 1622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: snow_fall1_5
+      rect:
+        serializedVersion: 2
+        x: 5853
+        y: 3799
+        width: 2700
+        height: 1622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: snow_fall1_6
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1933
+        width: 2696
+        height: 1622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: snow_fall1_7
+      rect:
+        serializedVersion: 2
+        x: 2925
+        y: 1933
+        width: 2696
+        height: 1622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: snow_fall1_8
+      rect:
+        serializedVersion: 2
+        x: 5840
+        y: 1933
+        width: 2696
+        height: 1622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: snow_fall1_9
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 15
+        width: 2696
+        height: 1622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: snow_fall1_10
+      rect:
+        serializedVersion: 2
+        x: 2955
+        y: 88
+        width: 2696
+        height: 1622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: snow_fall1_11
+      rect:
+        serializedVersion: 2
+        x: 5857
+        y: 139
+        width: 2696
+        height: 1622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: snow_fall1_12
+      rect:
+        serializedVersion: 2
+        x: 8652
+        y: 280
+        width: 113
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: snow_fall1_13
+      rect:
+        serializedVersion: 2
+        x: 2934
+        y: 0
+        width: 81
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: snow_fall1_14
+      rect:
+        serializedVersion: 2
+        x: 4843
+        y: 0
+        width: 81
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

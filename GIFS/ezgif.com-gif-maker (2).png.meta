@@ -1,0 +1,644 @@
+fileFormatVersion: 2
+guid: 16d213e8228ca5641943c0399b52646a
+timeCreated: 1579943672
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ezgif.com-gif-maker (2)_0
+    21300002: ezgif.com-gif-maker (2)_1
+    21300004: ezgif.com-gif-maker (2)_2
+    21300006: ezgif.com-gif-maker (2)_3
+    21300008: ezgif.com-gif-maker (2)_4
+    21300010: ezgif.com-gif-maker (2)_5
+    21300012: ezgif.com-gif-maker (2)_6
+    21300014: ezgif.com-gif-maker (2)_7
+    21300016: ezgif.com-gif-maker (2)_8
+    21300018: ezgif.com-gif-maker (2)_9
+    21300020: ezgif.com-gif-maker (2)_10
+    21300022: ezgif.com-gif-maker (2)_11
+    21300024: ezgif.com-gif-maker (2)_12
+    21300026: ezgif.com-gif-maker (2)_13
+    21300028: ezgif.com-gif-maker (2)_14
+    21300030: ezgif.com-gif-maker (2)_15
+    21300032: ezgif.com-gif-maker (2)_16
+    21300034: ezgif.com-gif-maker (2)_17
+    21300036: ezgif.com-gif-maker (2)_18
+    21300038: ezgif.com-gif-maker (2)_19
+    21300040: ezgif.com-gif-maker (2)_20
+    21300042: ezgif.com-gif-maker (2)_21
+    21300044: ezgif.com-gif-maker (2)_22
+    21300046: ezgif.com-gif-maker (2)_23
+    21300048: ezgif.com-gif-maker (2)_24
+    21300050: ezgif.com-gif-maker (2)_25
+    21300052: ezgif.com-gif-maker (2)_26
+    21300054: ezgif.com-gif-maker (2)_27
+    21300056: ezgif.com-gif-maker (2)_28
+    21300058: ezgif.com-gif-maker (2)_29
+    21300060: ezgif.com-gif-maker (2)_30
+    21300062: ezgif.com-gif-maker (2)_31
+    21300064: ezgif.com-gif-maker (2)_32
+    21300066: ezgif.com-gif-maker (2)_33
+    21300068: ezgif.com-gif-maker (2)_34
+    21300070: ezgif.com-gif-maker (2)_35
+    21300072: ezgif.com-gif-maker (2)_36
+    21300074: ezgif.com-gif-maker (2)_37
+    21300076: ezgif.com-gif-maker (2)_38
+    21300078: ezgif.com-gif-maker (2)_39
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker (2)_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 4082
+        width: 505
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker (2)_1
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 4082
+        width: 504
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker (2)_2
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 4082
+        width: 505
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker (2)_3
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 4082
+        width: 504
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker (2)_4
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 4082
+        width: 505
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker (2)_5
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3500
+        width: 505
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker (2)_6
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 3500
+        width: 504
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker (2)_7
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 3500
+        width: 505
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker (2)_8
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 3500
+        width: 504
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker (2)_9
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 3500
+        width: 505
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker (2)_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2918
+        width: 505
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker (2)_11
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 2918
+        width: 504
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker (2)_12
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 2918
+        width: 505
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker (2)_13
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 2918
+        width: 504
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker (2)_14
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 2918
+        width: 505
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker (2)_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2336
+        width: 505
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker (2)_16
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 2336
+        width: 504
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker (2)_17
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 2336
+        width: 505
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker (2)_18
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 2336
+        width: 504
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker (2)_19
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 2336
+        width: 505
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker (2)_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1754
+        width: 505
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker (2)_21
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1754
+        width: 504
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker (2)_22
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 1754
+        width: 505
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker (2)_23
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 1754
+        width: 504
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker (2)_24
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 1754
+        width: 505
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker (2)_25
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1172
+        width: 505
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker (2)_26
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1172
+        width: 504
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker (2)_27
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 1172
+        width: 505
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker (2)_28
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 1172
+        width: 504
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker (2)_29
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 1172
+        width: 505
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker (2)_30
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 590
+        width: 505
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker (2)_31
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 590
+        width: 504
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker (2)_32
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 590
+        width: 505
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker (2)_33
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 590
+        width: 504
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker (2)_34
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 590
+        width: 505
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker (2)_35
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 505
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker (2)_36
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 8
+        width: 504
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker (2)_37
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 8
+        width: 505
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker (2)_38
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 8
+        width: 504
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ezgif.com-gif-maker (2)_39
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 8
+        width: 505
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
